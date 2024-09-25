@@ -1,0 +1,8 @@
+@tailwind base;
+@layer base {
+  .font-segoe-ui {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+}
+@tailwind components;
+@tailwind utilities;
